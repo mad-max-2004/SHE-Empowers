@@ -24,10 +24,3 @@
 
 ---
 
-## 🚀 How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mad-max-2004/SHE-Empowers.git
-   cd SHE-Empowers
-
